@@ -24,7 +24,7 @@ Tabla: `personas`
 ## Archivos del proyecto
 
 - `consulta01 a 08.sql`: contiene las consultas SQL solicitadas
-- `index.html`: muestra capturas de pantalla como evidencia ejecutar github page para ver pantallazos
+- `index.html`: muestra capturas de pantalla como evidencia, ejecutar github page para ver pantallazos.
 - `/img`: carpeta con los pantallazos de cada consulta
 
 ## Herramientas utilizadas
