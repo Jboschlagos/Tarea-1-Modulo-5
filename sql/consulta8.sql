@@ -1,4 +1,0 @@
-SELECT * FROM personas
-WHERE (rut LIKE '13%' OR rut LIKE '%1')
-  AND nombre IN ('Diego','Mario','Pato','Pepa')
-  AND edad BETWEEN 20 AND 80;
